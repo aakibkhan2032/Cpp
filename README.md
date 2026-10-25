@@ -23,7 +23,7 @@ Learning how classes reuse and extend the functionality of other classes.
 - [X] Multilevel Inheritance
 - [X] Hierarchical Inheritance
 - [ ] Hybrid Inheritance
-- [ ] Virtual Inheritance
+- [X] Virtual Inheritance
 
 *Progress indicators will be updated as I complete each topic.*
 
