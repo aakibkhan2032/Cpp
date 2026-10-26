@@ -1,0 +1,7 @@
+# Compiled C++ files
+*.o
+*.out
+
+# Build output folders
+build/
+bin/
