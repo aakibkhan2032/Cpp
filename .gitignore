@@ -5,3 +5,14 @@
 # Build output folders
 build/
 bin/
+
+cat >> .gitignore <<'EOF'
+
+# Compiled C++ executables
+/inheritance/hierarchical inheritance
+/inheritance/hybrid inheritance
+/inheritance/multilevel inheritance
+/inheritance/multiple inheritance
+/inheritance/multiple inheritance with ambiguity
+/inheritance/single inheritance
+EOF
