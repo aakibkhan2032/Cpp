@@ -28,11 +28,12 @@ Learning how classes reuse and extend the functionality of other classes.
 ### 2. Classes and Objects
 Learning the class and object basic
 
+### 3. Constructors and Destructors
+
 *Progress indicators will be updated as I complete each topic.*
 
 ### 2. Upcoming Topics
 
-- Constructors and Destructors
 - Encapsulation and Abstraction
 - Polymorphism
 - Function Overloading and Overriding
