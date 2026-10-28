@@ -25,11 +25,13 @@ Learning how classes reuse and extend the functionality of other classes.
 - [X] Hybrid Inheritance
 - [X] Virtual Inheritance
 
+### 2. Classes and Objects
+Learning the class and object basic
+
 *Progress indicators will be updated as I complete each topic.*
 
 ### 2. Upcoming Topics
 
-- Classes and Objects
 - Constructors and Destructors
 - Encapsulation and Abstraction
 - Polymorphism
