@@ -2,7 +2,6 @@
 using namespace std;
 
 class Base{
-    protected:
     int real, imag;
     public:
 
@@ -11,14 +10,16 @@ class Base{
         imag = b;
     }
 
-    Base operator+(Base obj){
-        return Base(real + obj.real, imag + obj.imag);
-    }
+    friend Base operator+(Base obj, Base obj4);
 
     void display(){
         cout << real<<"+" << imag << "i"<< endl;
     }
 };
+
+Base operator+(Base obj, Base obj4){
+    return Base(obj.real+obj.real, obj4.imag + obj4.imag);
+}
 
 int main(){
     Base obj1(5,3), obj2(2,4);
