@@ -30,8 +30,10 @@ Learning the class and object basic
 
 ### 3. Constructors and Destructors
 
-### 4. Operator overloading 
+### 4. Operator overloading
+
 - [x] Unary operator overloading
+- [X] Binary operator overloading 
 
 *Progress indicators will be updated as I complete each topic.*
 
