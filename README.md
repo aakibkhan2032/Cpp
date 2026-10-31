@@ -33,7 +33,9 @@ Learning the class and object basic
 ### 4. Operator overloading
 
 - [x] Unary operator overloading
-- [X] Binary operator overloading 
+- [X] Binary operator overloading
+
+### 5. Virtual Functions
 
 *Progress indicators will be updated as I complete each topic.*
 
